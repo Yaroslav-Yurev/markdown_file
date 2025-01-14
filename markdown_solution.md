@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Команды GIT</h1>
+# Команды GIT
 
 ![git изображение](https://eurobyte.ru/img/articles/chto-takoe-git/image2.jpg)
 
